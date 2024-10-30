@@ -1,4 +1,4 @@
-#### so_long
+#### cub3d
 ___
 > 42 3d game project
 
