@@ -1,0 +1,20 @@
+NO ./images/magic_walls/magic_wall_e.png
+SO ./images/magic_walls/magic_wall_s.png
+WE ./images/magic_walls/magic_wall_w.png
+EA ./images/magic_walls/magic_wall_e.png
+
+F 42, 21, 7
+C 0 , 0, 0
+
+
+1111111111
+1P00000DC1
+10110101C1
+1000010101
+10111101C1
+101P0101C1
+11100101C1
+10D001D00W1
+10111111C1
+1000000DC1
+1111111111
