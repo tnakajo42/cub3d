@@ -2,7 +2,7 @@
 ___
 > 3d game project at 42
 
-[!['cub3d'](https://tsfcm.jp/wp-content/uploads/2024/11/cub3d_42_halloween.gif)
+[!['cub3d'](https://tsfcm.jp/wp-content/uploads/2024/11/cub3d_42_halloween.gif)]
 
 # DOWNLOAD MLX42
 
