@@ -2,7 +2,7 @@
 ___
 > 3d game project at 42
 
-[!['cub3d'](https://tsfcm.jp/wp-content/uploads/2024/11/42_cub3d_halloween.gif)](https://youtu.be/zaKGzGfHjAQ)
+[!['cub3d'](https://tsfcm.jp/wp-content/uploads/2024/11/42_cub3d_halloween.gif)](https://youtu.be/OTwlPdVVlok)
 # DOWNLOAD MLX42
 
 first, you need to install [MLX42](https://github.com/codam-coding-college/MLX42) library.
